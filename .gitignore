@@ -1,7 +1,5 @@
-venv/
-node_modules/
-.next/
+node_modules
+.next
 .env
-dist
-build
-__pycache__/
+venv
+__pycache__
